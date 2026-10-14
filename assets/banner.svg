@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Heimvo — See everything. Stop what matters.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0D1626"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1040" cy="160" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sweep" cx="1040" cy="160" r="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="20" fill="url(#glow)"/>
+
+  <!-- radar -->
+  <g fill="none" stroke="#2DD4BF" stroke-opacity="0.25">
+    <circle cx="1040" cy="160" r="60"/><circle cx="1040" cy="160" r="120"/><circle cx="1040" cy="160" r="180"/>
+    <path d="M860 160H1220M1040 -20V340"/>
+  </g>
+  <path d="M1040 160 L1196 70 A180 180 0 0 1 1218 186 Z" fill="url(#sweep)"/>
+  <g fill="#2DD4BF"><circle cx="1150" cy="112" r="5"/><circle cx="980" cy="236" r="4" opacity="0.7"/><circle cx="1096" cy="250" r="3" opacity="0.6"/></g>
+  <circle cx="930" cy="96" r="6" fill="#F43F5E"/><circle cx="930" cy="96" r="14" fill="none" stroke="#F43F5E" stroke-opacity="0.5"/>
+
+  <!-- logo -->
+  <g transform="translate(88 96) scale(2)">
+    <path d="M32 3.5 55 11.5v18.2c0 14.6-9.6 25.6-23 30.8C18.6 55.3 9 44.3 9 29.7V11.5Z" fill="#0B1220" stroke="url(#g)" stroke-width="3.2" stroke-linejoin="round"/>
+    <path d="M16 32c4.4-6.6 9.8-10 16-10s11.6 3.4 16 10c-4.4 6.6-9.8 10-16 10s-11.6-3.4-16-10Z" fill="none" stroke="url(#g)" stroke-width="2.6" stroke-linejoin="round"/>
+    <circle cx="32" cy="32" r="5.2" fill="url(#g)"/><circle cx="32" cy="32" r="1.8" fill="#0B1220"/>
+  </g>
+
+  <text x="244" y="160" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#F8FAFC" letter-spacing="-2">Heimvo</text>
+  <text x="248" y="208" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#94A3B8">See everything. <tspan fill="#2DD4BF" font-weight="600">Stop what matters.</tspan></text>
+  <text x="248" y="252" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="16" fill="#64748B" letter-spacing="1">PACKET ANALYSIS · THREAT DETECTION · ACTIVE DEFENSE</text>
+</svg>
