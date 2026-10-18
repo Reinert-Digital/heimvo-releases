@@ -1,0 +1,61 @@
+name: Fehler melden
+description: Etwas in Heimvo funktioniert nicht wie erwartet.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für Ihre Meldung! **Sicherheitslücken bitte nicht hier melden**, siehe [SECURITY.md](https://github.com/Reinert-Digital/heimvo-releases/blob/main/SECURITY.md).
+        Bitte keine Passwörter, Lizenzschlüssel oder Mitschnitte mit persönlichen Daten anhängen.
+  - type: textarea
+    id: what
+    attributes:
+      label: Was ist passiert?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Wie lässt sich der Fehler nachstellen?
+      placeholder: |
+        1. Heimvo öffnen
+        2. Seite „Geräte“ aufrufen
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Was hätten Sie erwartet?
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Heimvo-Version
+      description: Steht unter Einstellungen (Diagnose) und auf großen Bildschirmen oben im Dashboard.
+      placeholder: "0.17.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: Installation
+      options:
+        - Windows-Installer
+        - Docker
+        - Raspberry Pi
+        - Sonstiges
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: Umgebung
+      description: Windows-Version, Router (z. B. FRITZ!Box 7590), Browser.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Protokoll (optional)
+      description: Windows-Installer unter C:\ProgramData\Heimvo\logs, bitte vorher persönliche Daten entfernen.
+      render: shell

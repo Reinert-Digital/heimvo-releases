@@ -100,6 +100,9 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 Fragen, Feedback oder Interesse an Heimvo für Ihre Praxis oder Ihr Büro:
 **contact@reinert-digital.de**
 
+Einen Fehler gefunden? [Hier melden](https://github.com/Reinert-Digital/heimvo-releases/issues/new/choose).
+Sicherheitslücken bitte vertraulich, siehe [SECURITY.md](SECURITY.md).
+
 Die Versionshinweise stehen bei jeder [Version](https://github.com/Reinert-Digital/heimvo-releases/releases).
 
 ---
