@@ -1,5 +1,7 @@
 <div align="center">
 
+**Deutsch** · [English](README.en.md)
+
 <img src="assets/banner.svg" alt="Heimvo, der Netzwerkwächter" width="100%">
 
 <br/>
@@ -42,6 +44,8 @@ Es meldet fremde Geräte und Angriffe in Klartext und sperrt sie auf Wunsch auto
 - Windows 10 oder 11, 64-Bit, Konto mit Administratorrechten
 - Ein PC, der im Heimnetz läuft, am besten per LAN-Kabel
 - Npcap (kostenlos, der Installer hilft beim Herunterladen)
+
+**Weitere Plattformen:** In jeder Version liegen auch ein Linux-Paket (`.deb` für amd64/arm64, mit Signatur) und Images für eine eigene Heimvo-Box auf Raspberry Pi 5 oder x86-Mini-PC. Die Box-Images sind eine Vorschau: getestet in der virtuellen Maschine, Tests auf echter Hardware laufen noch.
 
 ## Warum warnt Windows?
 
