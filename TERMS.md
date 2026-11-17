@@ -7,7 +7,7 @@ This English text is a translation for convenience. If the two differ, the [Germ
 Provider: Reinert Digital Solutions, Düsseldorf, Germany (details in the [legal notice](https://reinert-digital.de/impressum/)).
 Contact: contact@reinert-digital.de
 
-These terms apply to the Heimvo software (Windows installer, Linux packages and Heimvo box images) provided through this repository or the provider's website. By downloading, installing or using Heimvo you agree to these terms.
+These terms apply to the Heimvo software (Windows installer, Linux packages and Heimvo box images) provided through this repository. By downloading, installing or using Heimvo you agree to these terms.
 
 ## 1. What you may do
 
