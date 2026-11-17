@@ -23,7 +23,7 @@ It reports unknown devices and attacks in plain language and can block them auto
 
 ## [⬇ Download Heimvo for Windows](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
-<sub>Windows 10 and 11 (64-bit) · English and German · Free to use · Pro is free during launch</sub>
+<sub>Windows 10 and 11 (64-bit) · English and German · Free to use · Pro is free during launch<br/>Downloading means you accept the <a href="TERMS.md">terms of use</a>.</sub>
 
 <br/>
 
@@ -143,6 +143,8 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 
 **May I monitor any network?** Only networks that belong to you or that you have permission to monitor.
 
+**What do I need to consider in a practice, law firm or office?** If employees, patients or guests use the network, Heimvo also sees their devices and connection data (who exchanges how much data with which service and when, not the content of encrypted connections). Data protection law (GDPR) applies: you need a legal basis, should inform the people concerned beforehand and add the use to your record of processing activities. If there is a works council, it usually has to agree. Set the retention period in the settings as short as possible. When in doubt, ask your data protection officer.
+
 ## About Reinert Digital Solutions
 
 Heimvo is developed by [Reinert Digital Solutions](https://reinert-digital.de), a digital agency from Düsseldorf, Germany. We build websites and software for businesses and develop our own products such as Heimvo.
@@ -157,5 +159,5 @@ Release notes are attached to each [version](https://github.com/Reinert-Digital/
 ---
 
 <div align="center">
-<sub>Heimvo is a product of <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf, Germany · © 2026 · All rights reserved</sub>
+<sub>Heimvo is a product of <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf, Germany · © 2026 · All rights reserved<br/><a href="TERMS.md">Terms of use</a> · <a href="https://reinert-digital.de/impressum/">Legal notice (Impressum)</a> · <a href="https://reinert-digital.de/datenschutz/">Privacy</a></sub>
 </div>

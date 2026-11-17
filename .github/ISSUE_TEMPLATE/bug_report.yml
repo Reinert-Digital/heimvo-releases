@@ -34,7 +34,7 @@ body:
     attributes:
       label: Heimvo-Version
       description: Steht unter Einstellungen (Diagnose) und auf großen Bildschirmen oben im Dashboard.
-      placeholder: "0.17.1"
+      placeholder: "1.0.2"
     validations:
       required: true
   - type: dropdown

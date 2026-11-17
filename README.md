@@ -23,7 +23,7 @@ Es meldet fremde Geräte und Angriffe in Klartext und sperrt sie auf Wunsch auto
 
 ## [⬇ Heimvo für Windows herunterladen](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
-<sub>Windows 10 und 11 (64-Bit) · Deutsch und Englisch · Kostenlos nutzbar · Pro in der Startphase kostenlos</sub>
+<sub>Windows 10 und 11 (64-Bit) · Deutsch und Englisch · Kostenlos nutzbar · Pro in der Startphase kostenlos<br/>Mit dem Download gelten die <a href="NUTZUNGSBEDINGUNGEN.md">Nutzungsbedingungen</a>.</sub>
 
 <br/>
 
@@ -143,6 +143,8 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 
 **Darf ich jedes Netz überwachen?** Nur Netze, die Ihnen gehören oder für die Sie die Erlaubnis haben.
 
+**Was muss ich in Praxis, Kanzlei oder Büro beachten?** Nutzen Mitarbeitende, Patientinnen und Patienten oder Gäste das Netz, sieht Heimvo auch deren Geräte und Verbindungsdaten (wer wann mit welchem Dienst wie viele Daten austauscht, keine Inhalte verschlüsselter Verbindungen). Dafür gilt die DSGVO: Sie brauchen eine Rechtsgrundlage, sollten die Betroffenen vorher informieren und den Einsatz in Ihr Verzeichnis der Verarbeitungstätigkeiten aufnehmen. Gibt es einen Betriebsrat, muss er in der Regel zustimmen (§ 87 Abs. 1 Nr. 6 BetrVG). Stellen Sie die Aufbewahrungsdauer in den Einstellungen so kurz wie möglich ein. Im Zweifel fragen Sie Ihre Datenschutzbeauftragte oder Ihren Datenschutzbeauftragten.
+
 ## Über Reinert Digital Solutions
 
 Heimvo wird von [Reinert Digital Solutions](https://reinert-digital.de) entwickelt, einer Digitalagentur aus Düsseldorf. Wir bauen Websites und Software für Unternehmen und entwickeln eigene Produkte wie Heimvo.
@@ -157,5 +159,5 @@ Die Versionshinweise stehen bei jeder [Version](https://github.com/Reinert-Digit
 ---
 
 <div align="center">
-<sub>Heimvo ist ein Produkt von <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf · © 2026 · Alle Rechte vorbehalten</sub>
+<sub>Heimvo ist ein Produkt von <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf · © 2026 · Alle Rechte vorbehalten<br/><a href="NUTZUNGSBEDINGUNGEN.md">Nutzungsbedingungen</a> · <a href="https://reinert-digital.de/impressum/">Impressum</a> · <a href="https://reinert-digital.de/datenschutz/">Datenschutz</a></sub>
 </div>
