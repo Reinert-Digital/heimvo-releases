@@ -13,6 +13,14 @@ It reports unknown devices and attacks in plain language and can block them auto
 
 <br/>
 
+[![Latest version](https://img.shields.io/github/v/release/Reinert-Digital/heimvo-releases?label=version&color=2DD4BF)](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
+![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4)
+![100 % local](https://img.shields.io/badge/100%20%25%20local-no%20telemetry-2DD4BF)
+![English and German](https://img.shields.io/badge/languages-English%20%7C%20German-64748B)
+![Made in Düsseldorf](https://img.shields.io/badge/made%20in-D%C3%BCsseldorf-64748B)
+
+<br/>
+
 ## [⬇ Download Heimvo for Windows](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
 <sub>Windows 10 and 11 (64-bit) · English and German · Free to use, try Pro free for 30 days</sub>
@@ -21,9 +29,23 @@ It reports unknown devices and attacks in plain language and can block them auto
 
 <img src="assets/screenshot-overview-en.png" alt="Heimvo overview" width="100%">
 
+[Why Heimvo](#why-we-built-heimvo) · [Features](#what-heimvo-does-for-you) · [Who it is for](#who-is-heimvo-for) · [Install](#install-in-3-steps) · [Free and Pro](#free-and-pro) · [Contact](#about-reinert-digital-solutions)
+
 </div>
 
 ---
+
+## Why we built Heimvo
+
+Every home and every small office now has dozens of devices on its Wi-Fi: phones, laptops, TVs, speakers, cameras, smart plugs. Hardly anyone knows exactly which ones they are, or whether a stranger is among them.
+
+The existing tools do not help much. The router shows lists with names like `none-2` and `4C53FDFFFC69`. Expert tools show every single packet but explain nothing. Enterprise security products are expensive and need an IT team of their own.
+
+We built Heimvo to close that gap: **the detection of an expert tool, explained so that anyone understands it.** Three principles guide us:
+
+| 💬 Understandable | 🔒 Local | 🔍 Honest |
+|---|---|---|
+| Plain language instead of jargon. Every warning says what happened and what you can do now. | Your network data stays on your PC. No cloud account, no telemetry, not even we can see it. | Heimvo openly shows how much of the network it can see and where its limits are. |
 
 ## What Heimvo does for you
 
@@ -40,6 +62,12 @@ You choose how much technical detail Heimvo shows, and you can switch at any tim
 - **Beginner:** plain language and only what matters on each page. A short **"Explained in brief"** note says what the page shows and what to do, and explains one technical term on the way. That way you get to know your network step by step.
 - **Simple:** everyday words and short sentences, easy to follow from about age 15.
 - **Expert:** every detail with the technical terms, from IP and MAC addresses down to single data packets.
+
+## Who is Heimvo for?
+
+| 👨‍👩‍👧 Families | 🏥 Medical practices, law firms, offices | 🧪 Tech enthusiasts |
+|---|---|---|
+| See which devices are on the Wi-Fi and get notified right away when an unknown one shows up. | Notice unusual traffic early. With roles for staff and a log of who did what. | Expert view with packet analysis, connections and DNS log, all local on your own machine. |
 
 ## Install in 3 steps
 
@@ -110,10 +138,11 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 
 **May I monitor any network?** Only networks that belong to you or that you have permission to monitor.
 
-## Contact
+## About Reinert Digital Solutions
 
-Questions, feedback or interest in Heimvo for your practice or office:
-**contact@reinert-digital.de**
+Heimvo is developed by [Reinert Digital Solutions](https://reinert-digital.de), a digital agency from Düsseldorf, Germany. We build websites and software for businesses and develop our own products such as Heimvo.
+
+Want to use Heimvo in your practice or office, have feedback, or looking for a partner for your own software project? Write to us: **contact@reinert-digital.de**
 
 Found a bug? [Report it here](https://github.com/Reinert-Digital/heimvo-releases/issues/new/choose).
 Please report security issues confidentially, see [SECURITY.md](SECURITY.md).
