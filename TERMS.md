@@ -7,7 +7,7 @@ This English text is a translation for convenience. If the two differ, the [Germ
 Provider: Reinert Digital Solutions, Düsseldorf, Germany (details in the [legal notice](https://reinert-digital.de/impressum/)).
 Contact: contact@reinert-digital.de
 
-These terms apply to the Heimvo software (Windows installer, Linux packages, Heimvo box images and Docker image) provided through this repository or the provider's website. By downloading, installing or using Heimvo you agree to these terms.
+These terms apply to the Heimvo software (Windows installer, Linux packages and Heimvo box images) provided through this repository or the provider's website. By downloading, installing or using Heimvo you agree to these terms.
 
 ## 1. What you may do
 
@@ -31,7 +31,7 @@ Unless the law expressly allows it (in particular sections 69d and 69e of the Ge
 ## 4. Your data
 
 1. Heimvo runs on your device. Captured data (devices, alerts, history) is stored locally and not sent to the provider. Heimvo contains no telemetry.
-2. Some features connect to third parties only when you switch them on or set them up, for example notifications (email, Telegram, Teams, Slack, ntfy), lists of known malicious addresses, GeoIP data and the update check. Only the clock check against a time server (`pool.ntp.org`) is on by default; it can be switched off. The terms of those providers apply to these services.
+2. Some features connect to third parties only when you switch them on or set them up, for example notifications (email, Telegram, Teams, Slack, ntfy), lists of known malicious addresses, GeoIP data and the update check. Only the clock check against a time server (`pool.ntp.org`) is on by default, and on the Heimvo box also the update check at GitHub. Both can be switched off. The terms of those providers apply to these services.
 3. If you write to us (for example for a Pro key), we process your details according to our [privacy policy](https://reinert-digital.de/datenschutz/).
 
 ## 5. Limits of the software

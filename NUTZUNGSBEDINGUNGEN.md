@@ -5,7 +5,7 @@ Stand: 17. November 2026 · [English version](TERMS.md)
 Anbieter: Reinert Digital Solutions, Düsseldorf (Angaben siehe [Impressum](https://reinert-digital.de/impressum/)).
 Kontakt: contact@reinert-digital.de
 
-Diese Bedingungen gelten für die Software Heimvo (Windows-Installer, Linux-Pakete, Images für die Heimvo-Box und Docker-Image), die über dieses Repository oder über die Website des Anbieters bereitgestellt wird. Mit dem Herunterladen, Installieren oder Nutzen von Heimvo stimmen Sie diesen Bedingungen zu.
+Diese Bedingungen gelten für die Software Heimvo (Windows-Installer, Linux-Pakete und Images für die Heimvo-Box), die über dieses Repository oder über die Website des Anbieters bereitgestellt wird. Mit dem Herunterladen, Installieren oder Nutzen von Heimvo stimmen Sie diesen Bedingungen zu.
 
 ## 1. Was Sie dürfen
 
@@ -29,7 +29,7 @@ Soweit das Gesetz es nicht ausdrücklich erlaubt (insbesondere §§ 69d und 69e 
 ## 4. Ihre Daten
 
 1. Heimvo läuft auf Ihrem Gerät. Erfasste Daten (Geräte, Warnungen, Verlauf) werden lokal gespeichert und nicht an den Anbieter übertragen. Heimvo enthält keine Telemetrie.
-2. Einige Funktionen bauen nur dann Verbindungen zu Dritten auf, wenn Sie sie einschalten oder einrichten, zum Beispiel Benachrichtigungen (E-Mail, Telegram, Teams, Slack, ntfy), Listen bekannter Schadadressen, GeoIP-Daten und die Suche nach Updates. Standardmäßig eingeschaltet ist nur der Uhrzeit-Abgleich mit einem Zeitserver (`pool.ntp.org`); er lässt sich abschalten. Für diese Dienste gelten die Bedingungen ihrer Anbieter.
+2. Einige Funktionen bauen nur dann Verbindungen zu Dritten auf, wenn Sie sie einschalten oder einrichten, zum Beispiel Benachrichtigungen (E-Mail, Telegram, Teams, Slack, ntfy), Listen bekannter Schadadressen, GeoIP-Daten und die Suche nach Updates. Standardmäßig eingeschaltet ist nur der Uhrzeit-Abgleich mit einem Zeitserver (`pool.ntp.org`), auf der Heimvo-Box zusätzlich die Suche nach Updates bei GitHub. Beides lässt sich abschalten. Für diese Dienste gelten die Bedingungen ihrer Anbieter.
 3. Wenn Sie uns schreiben (zum Beispiel für einen Pro-Schlüssel), verarbeiten wir Ihre Angaben nach unserer [Datenschutzerklärung](https://reinert-digital.de/datenschutz/).
 
 ## 5. Grenzen der Software
