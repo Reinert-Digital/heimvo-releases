@@ -23,7 +23,7 @@ Es meldet fremde Geräte und Angriffe in Klartext und sperrt sie auf Wunsch auto
 
 ## [⬇ Heimvo für Windows herunterladen](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
-<sub>Windows 10 und 11 (64-Bit) · Deutsch und Englisch · Kostenlos nutzbar, Pro 30 Tage kostenlos testen</sub>
+<sub>Windows 10 und 11 (64-Bit) · Deutsch und Englisch · Kostenlos nutzbar · Pro in der Startphase kostenlos</sub>
 
 <br/>
 
@@ -109,6 +109,9 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 | Verbindungs-Bild | | ✅ |
 | Mehrere Standorte zentral im Blick | | ✅ |
 
+> **🎁 Startphase: Pro ist kostenlos.**
+> Nach der Installation sind alle Pro-Funktionen 30 Tage lang automatisch offen. Möchten Sie Pro danach weiter nutzen, schreiben Sie uns mit Ihrem Namen oder Firmennamen an **contact@reinert-digital.de**. Sie bekommen einen kostenlosen Pro-Schlüssel, gültig bis 30.06.2027. Eintragen unter **Einstellungen → Lizenz**.
+
 ## Ihre Daten bleiben bei Ihnen
 
 - Heimvo läuft **nur auf Ihrem PC**. Es gibt kein Cloud-Konto und keine Telemetrie.
@@ -131,6 +134,8 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 **Brauche ich neue Hardware?** Nein. Ein Windows-PC im Heimnetz genügt.
 
 **Ich kenne mich mit Netzwerken nicht aus. Ist Heimvo trotzdem etwas für mich?** Ja. Wählen Sie im Kontomenü unter „Erklärungen“ die Stufe „Einsteiger“ oder „Einfach“. Dann zeigt Heimvo nur das Wichtige und erklärt jede Seite kurz.
+
+**Was kostet Pro?** In der Startphase nichts. Schreiben Sie uns, und Sie bekommen einen kostenlosen Pro-Schlüssel bis 30.06.2027 (siehe [Kostenlos und Pro](#kostenlos-und-pro)). Die kostenlose Version bleibt dauerhaft kostenlos.
 
 **Wie aktualisiere ich?** Laden Sie die neue Version herunter und installieren Sie sie darüber. Ihre Einstellungen und Geräte bleiben erhalten.
 

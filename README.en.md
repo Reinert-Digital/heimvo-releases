@@ -23,7 +23,7 @@ It reports unknown devices and attacks in plain language and can block them auto
 
 ## [⬇ Download Heimvo for Windows](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
-<sub>Windows 10 and 11 (64-bit) · English and German · Free to use, try Pro free for 30 days</sub>
+<sub>Windows 10 and 11 (64-bit) · English and German · Free to use · Pro is free during launch</sub>
 
 <br/>
 
@@ -109,6 +109,9 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 | Connection picture | | ✅ |
 | Several sites at a glance | | ✅ |
 
+> **🎁 Launch phase: Pro is free.**
+> After installing, all Pro features are unlocked for 30 days automatically. Want to keep Pro after that? Email us at **contact@reinert-digital.de** with your name or company name. You get a free Pro key, valid until 30 June 2027. Enter it under **Settings → License**.
+
 ## Your data stays with you
 
 - Heimvo runs **only on your PC**. There is no cloud account and no telemetry.
@@ -131,6 +134,8 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 **Do I need new hardware?** No. A Windows PC in your home network is enough.
 
 **I know nothing about networks. Is Heimvo still for me?** Yes. In the account menu, choose "Beginner" or "Simple" under "Explanations". Heimvo then shows only what matters and explains every page in brief.
+
+**What does Pro cost?** Nothing during the launch phase. Email us and you get a free Pro key valid until 30 June 2027 (see [Free and Pro](#free-and-pro)). The free version stays free for good.
 
 **How do I update?** Download the new version and install it over the old one. Your settings and devices are kept.
 
