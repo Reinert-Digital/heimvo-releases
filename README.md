@@ -157,5 +157,5 @@ Die Versionshinweise stehen bei jeder [Version](https://github.com/Reinert-Digit
 ---
 
 <div align="center">
-<sub>Heimvo ist ein Produkt von <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf · © 2026 · Alle Rechte vorbehalten</sub>
+<sub>Heimvo ist ein Produkt von <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf · © 2026 · Alle Rechte vorbehalten<br/><a href="https://reinert-digital.de/impressum/">Impressum</a> · <a href="https://reinert-digital.de/datenschutz/">Datenschutz</a></sub>
 </div>
