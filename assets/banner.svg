@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Heimvo — See everything. Stop what matters.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Heimvo – Alles sehen. Gefahren stoppen.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#070B14"/>
@@ -41,6 +41,6 @@
   </g>
 
   <text x="244" y="160" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#F8FAFC" letter-spacing="-2">Heimvo</text>
-  <text x="248" y="208" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#94A3B8">See everything. <tspan fill="#2DD4BF" font-weight="600">Stop what matters.</tspan></text>
-  <text x="248" y="252" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="16" fill="#64748B" letter-spacing="1">PACKET ANALYSIS · THREAT DETECTION · ACTIVE DEFENSE</text>
+  <text x="248" y="208" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#94A3B8">Alles sehen. <tspan fill="#2DD4BF" font-weight="600">Gefahren stoppen.</tspan></text>
+  <text x="248" y="252" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="16" fill="#64748B" letter-spacing="1">GERÄTE ERKENNEN · ANGRIFFE MELDEN · AUTOMATISCH SPERREN</text>
 </svg>
