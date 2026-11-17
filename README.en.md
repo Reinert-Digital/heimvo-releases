@@ -2,7 +2,7 @@
 
 [Deutsch](README.md) · **English**
 
-<img src="assets/banner.svg" alt="Heimvo, the network guardian" width="100%">
+<img src="assets/banner-en.svg" alt="Heimvo, the network guardian" width="100%">
 
 <br/>
 
