@@ -32,7 +32,7 @@ Unless the law expressly allows it (in particular sections 69d and 69e of the Ge
 
 1. Heimvo runs on your device. Captured data (devices, alerts, history) is stored locally and not sent to the provider. Heimvo contains no telemetry.
 2. Some features connect to third parties only when you switch them on or set them up, for example notifications (email, Telegram, Teams, Slack, ntfy), lists of known malicious addresses, GeoIP data and the update check. Only the clock check against a time server (`pool.ntp.org`) is on by default, and on the Heimvo box also the update check at GitHub. Both can be switched off. The terms of those providers apply to these services.
-3. If you write to us (for example for a Pro key), we process your details according to our [privacy policy](https://reinert-digital.de/datenschutz/).
+3. If you write to us (for example for a Pro key), we process your details according to the [Heimvo privacy notice](PRIVACY.md).
 
 ## 5. Limits of the software
 

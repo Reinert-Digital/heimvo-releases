@@ -159,5 +159,5 @@ Release notes are attached to each [version](https://github.com/Reinert-Digital/
 ---
 
 <div align="center">
-<sub>Heimvo is a product of <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf, Germany · © 2026 · All rights reserved<br/><a href="TERMS.md">Terms of use</a> · <a href="https://reinert-digital.de/impressum/">Legal notice (Impressum)</a> · <a href="https://reinert-digital.de/datenschutz/">Privacy</a></sub>
+<sub>Heimvo is a product of <a href="https://reinert-digital.de">Reinert Digital Solutions</a>, Düsseldorf, Germany · © 2026 · All rights reserved<br/><a href="TERMS.md">Terms of use</a> · <a href="https://reinert-digital.de/impressum/">Legal notice (Impressum)</a> · <a href="PRIVACY.md">Privacy</a></sub>
 </div>

@@ -30,7 +30,7 @@ Soweit das Gesetz es nicht ausdrücklich erlaubt (insbesondere §§ 69d und 69e 
 
 1. Heimvo läuft auf Ihrem Gerät. Erfasste Daten (Geräte, Warnungen, Verlauf) werden lokal gespeichert und nicht an den Anbieter übertragen. Heimvo enthält keine Telemetrie.
 2. Einige Funktionen bauen nur dann Verbindungen zu Dritten auf, wenn Sie sie einschalten oder einrichten, zum Beispiel Benachrichtigungen (E-Mail, Telegram, Teams, Slack, ntfy), Listen bekannter Schadadressen, GeoIP-Daten und die Suche nach Updates. Standardmäßig eingeschaltet ist nur der Uhrzeit-Abgleich mit einem Zeitserver (`pool.ntp.org`), auf der Heimvo-Box zusätzlich die Suche nach Updates bei GitHub. Beides lässt sich abschalten. Für diese Dienste gelten die Bedingungen ihrer Anbieter.
-3. Wenn Sie uns schreiben (zum Beispiel für einen Pro-Schlüssel), verarbeiten wir Ihre Angaben nach unserer [Datenschutzerklärung](https://reinert-digital.de/datenschutz/).
+3. Wenn Sie uns schreiben (zum Beispiel für einen Pro-Schlüssel), verarbeiten wir Ihre Angaben nach den [Datenschutzhinweisen für Heimvo](DATENSCHUTZ.md).
 
 ## 5. Grenzen der Software
 
