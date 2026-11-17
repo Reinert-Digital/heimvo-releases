@@ -15,7 +15,7 @@ It reports unknown devices and attacks in plain language and can block them auto
 
 ## [⬇ Download Heimvo for Windows](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
-<sub>Windows 10 and 11 (64-bit) · English and German · Free to use, try Pro for free</sub>
+<sub>Windows 10 and 11 (64-bit) · English and German · Free to use, try Pro free for 30 days</sub>
 
 <br/>
 
@@ -32,6 +32,14 @@ It reports unknown devices and attacks in plain language and can block them auto
 | `none-2` becomes **Amazon Echo**, `wpad.fritz.box` becomes **FRITZ!Box 6670**. Assign owner and room: "Anna's iPhone, living room". | An unknown device, a port scan or a program quietly sending data? Heimvo explains what happened and what you can do. | Block suspicious addresses right in Heimvo or let it block them automatically. Your router and your own devices are protected from that. |
 
 <img src="assets/screenshot-devices-drawer-en.png" alt="Device with model, owner and automatically detected type" width="100%">
+
+## Easy for beginners, complete for experts
+
+You choose how much technical detail Heimvo shows, and you can switch at any time in the account menu:
+
+- **Beginner:** plain language and only what matters on each page. A short **"Explained in brief"** note says what the page shows and what to do, and explains one technical term on the way. That way you get to know your network step by step.
+- **Simple:** everyday words and short sentences, easy to follow from about age 15.
+- **Expert:** every detail with the technical terms, from IP and MAC addresses down to single data packets.
 
 ## Install in 3 steps
 
@@ -71,6 +79,7 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 | Family protection | | ✅ |
 | **Block** and **False alarm** right from the push notification | | ✅ |
 | Connection picture | | ✅ |
+| Several sites at a glance | | ✅ |
 
 ## Your data stays with you
 
@@ -92,6 +101,8 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 ## FAQ
 
 **Do I need new hardware?** No. A Windows PC in your home network is enough.
+
+**I know nothing about networks. Is Heimvo still for me?** Yes. In the account menu, choose "Beginner" or "Simple" under "Explanations". Heimvo then shows only what matters and explains every page in brief.
 
 **How do I update?** Download the new version and install it over the old one. Your settings and devices are kept.
 

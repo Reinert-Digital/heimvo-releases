@@ -15,7 +15,7 @@ Es meldet fremde Geräte und Angriffe in Klartext und sperrt sie auf Wunsch auto
 
 ## [⬇ Heimvo für Windows herunterladen](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 
-<sub>Windows 10 und 11 (64-Bit) · Deutsch und Englisch · Kostenlos nutzbar, Pro kostenlos testen</sub>
+<sub>Windows 10 und 11 (64-Bit) · Deutsch und Englisch · Kostenlos nutzbar, Pro 30 Tage kostenlos testen</sub>
 
 <br/>
 
@@ -32,6 +32,14 @@ Es meldet fremde Geräte und Angriffe in Klartext und sperrt sie auf Wunsch auto
 | Aus `none-2` wird **Amazon Echo**, aus `wpad.fritz.box` die **FRITZ!Box 6670**. Ordnen Sie Besitzer und Raum zu: „Annas iPhone, Wohnzimmer“. | Ein unbekanntes Gerät, ein Port-Scan oder ein Programm, das heimlich Daten sendet? Heimvo erklärt, was passiert ist und was Sie tun können. | Verdächtige Adressen sperren Sie direkt in Heimvo oder lassen sie automatisch sperren. Router und eigene Geräte sind davor geschützt. |
 
 <img src="assets/screenshot-devices-drawer.png" alt="Gerät mit Modell, Besitzer und automatisch erkanntem Typ" width="100%">
+
+## Verständlich für Einsteiger, vollständig für Profis
+
+Sie wählen selbst, wie viel Technik Heimvo zeigt, und können jederzeit im Kontomenü wechseln:
+
+- **Einsteiger:** klare Sprache, nur das Wichtigste auf jeder Seite. Ein kurzer Kasten **„Kurz erklärt“** sagt, was die Seite zeigt und was zu tun ist, und erklärt nebenbei einen Fachbegriff. So lernen Sie Ihr Netzwerk Schritt für Schritt kennen.
+- **Einfach:** Alltagswörter und kurze Sätze, verständlich ab etwa 15 Jahren.
+- **Profi:** alle Details mit Fachbegriffen, von IP- und MAC-Adresse bis zum einzelnen Datenpaket.
 
 ## Installation in 3 Schritten
 
@@ -71,6 +79,7 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 | Familien-Schutz | | ✅ |
 | **Sperren** und **Fehlalarm** direkt aus der Push-Nachricht | | ✅ |
 | Verbindungs-Bild | | ✅ |
+| Mehrere Standorte zentral im Blick | | ✅ |
 
 ## Ihre Daten bleiben bei Ihnen
 
@@ -92,6 +101,8 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 ## Häufige Fragen
 
 **Brauche ich neue Hardware?** Nein. Ein Windows-PC im Heimnetz genügt.
+
+**Ich kenne mich mit Netzwerken nicht aus. Ist Heimvo trotzdem etwas für mich?** Ja. Wählen Sie im Kontomenü unter „Erklärungen“ die Stufe „Einsteiger“ oder „Einfach“. Dann zeigt Heimvo nur das Wichtige und erklärt jede Seite kurz.
 
 **Wie aktualisiere ich?** Laden Sie die neue Version herunter und installieren Sie sie darüber. Ihre Einstellungen und Geräte bleiben erhalten.
 

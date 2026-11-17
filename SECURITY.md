@@ -5,7 +5,7 @@ verantwortungsvolle Meldung.
 
 ## Unterstützte Versionen
 
-Sicherheitskorrekturen gibt es für die jeweils neueste Version (aktuell `0.17.x`).
+Sicherheitskorrekturen gibt es für die jeweils neueste Version (aktuell `1.0.x`).
 Bitte aktualisieren Sie vor einer Meldung auf die
 [neueste Version](https://github.com/Reinert-Digital/heimvo-releases/releases/latest).
 
