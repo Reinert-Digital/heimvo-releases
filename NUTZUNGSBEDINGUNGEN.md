@@ -2,7 +2,7 @@
 
 Stand: 17. November 2026 · [English version](TERMS.md)
 
-Anbieter: Reinert Digital Solutions, Düsseldorf (Angaben siehe [Impressum](https://reinert-digital.de/impressum/)).
+Anbieter: [Reinert Digital Solutions](https://reinert-digital.de), Düsseldorf (Angaben siehe [Impressum](https://reinert-digital.de/impressum/)).
 Kontakt: contact@reinert-digital.de
 
 Diese Bedingungen gelten für die Software Heimvo (Windows-Installer, Linux-Pakete und Images für die Heimvo-Box), die über dieses Repository bereitgestellt wird. Mit dem Herunterladen, Installieren oder Nutzen von Heimvo stimmen Sie diesen Bedingungen zu.

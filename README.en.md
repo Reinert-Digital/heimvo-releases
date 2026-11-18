@@ -145,7 +145,7 @@ The `Hash` shown must match the text in the `.sha256` file. If it differs, do no
 
 **What do I need to consider in a practice, law firm or office?** If employees, patients or guests use the network, Heimvo also sees their devices and connection data (who exchanges how much data with which service and when, not the content of encrypted connections). Data protection law (GDPR) applies: you need a legal basis, should inform the people concerned beforehand and add the use to your record of processing activities. If there is a works council, it usually has to agree. Set the retention period in the settings as short as possible. When in doubt, ask your data protection officer.
 
-## About Reinert Digital Solutions
+## About [Reinert Digital Solutions](https://reinert-digital.de)
 
 Heimvo is developed by [Reinert Digital Solutions](https://reinert-digital.de), a digital agency from Düsseldorf, Germany. We build websites and software for businesses and develop our own products such as Heimvo.
 
