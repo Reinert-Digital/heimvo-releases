@@ -6,7 +6,7 @@ This English text is a translation for convenience. If the two differ, the [Germ
 
 ## Controller
 
-Reinert Digital Solutions, owner Vincent Reinert, Münsterstraße 275, 40470 Düsseldorf, Germany
+[Reinert Digital Solutions](https://reinert-digital.de), owner Vincent Reinert, Münsterstraße 275, 40470 Düsseldorf, Germany
 Email: contact@reinert-digital.de · more in the [legal notice](https://reinert-digital.de/impressum/)
 
 ## The Heimvo software

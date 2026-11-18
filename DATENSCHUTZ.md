@@ -4,7 +4,7 @@ Stand: 17. November 2026 · [English version](PRIVACY.md)
 
 ## Verantwortlicher
 
-Reinert Digital Solutions, Inhaber Vincent Reinert, Münsterstraße 275, 40470 Düsseldorf, Deutschland
+[Reinert Digital Solutions](https://reinert-digital.de), Inhaber Vincent Reinert, Münsterstraße 275, 40470 Düsseldorf, Deutschland
 E-Mail: contact@reinert-digital.de · weitere Angaben im [Impressum](https://reinert-digital.de/impressum/)
 
 ## Die Software Heimvo

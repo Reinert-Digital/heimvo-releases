@@ -145,7 +145,7 @@ Der angezeigte `Hash` muss mit dem Text in der `.sha256`-Datei übereinstimmen. 
 
 **Was muss ich in Praxis, Kanzlei oder Büro beachten?** Nutzen Mitarbeitende, Patientinnen und Patienten oder Gäste das Netz, sieht Heimvo auch deren Geräte und Verbindungsdaten (wer wann mit welchem Dienst wie viele Daten austauscht, keine Inhalte verschlüsselter Verbindungen). Dafür gilt die DSGVO: Sie brauchen eine Rechtsgrundlage, sollten die Betroffenen vorher informieren und den Einsatz in Ihr Verzeichnis der Verarbeitungstätigkeiten aufnehmen. Gibt es einen Betriebsrat, muss er in der Regel zustimmen (§ 87 Abs. 1 Nr. 6 BetrVG). Stellen Sie die Aufbewahrungsdauer in den Einstellungen so kurz wie möglich ein. Im Zweifel fragen Sie Ihre Datenschutzbeauftragte oder Ihren Datenschutzbeauftragten.
 
-## Über Reinert Digital Solutions
+## Über [Reinert Digital Solutions](https://reinert-digital.de)
 
 Heimvo wird von [Reinert Digital Solutions](https://reinert-digital.de) entwickelt, einer Digitalagentur aus Düsseldorf. Wir bauen Websites und Software für Unternehmen und entwickeln eigene Produkte wie Heimvo.
 

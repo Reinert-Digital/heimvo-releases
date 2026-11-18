@@ -4,7 +4,7 @@ Last updated: 17 November 2026 · [Deutsche Fassung](NUTZUNGSBEDINGUNGEN.md)
 
 This English text is a translation for convenience. If the two differ, the [German version](NUTZUNGSBEDINGUNGEN.md) prevails.
 
-Provider: Reinert Digital Solutions, Düsseldorf, Germany (details in the [legal notice](https://reinert-digital.de/impressum/)).
+Provider: [Reinert Digital Solutions](https://reinert-digital.de), Düsseldorf, Germany (details in the [legal notice](https://reinert-digital.de/impressum/)).
 Contact: contact@reinert-digital.de
 
 These terms apply to the Heimvo software (Windows installer, Linux packages and Heimvo box images) provided through this repository. By downloading, installing or using Heimvo you agree to these terms.
