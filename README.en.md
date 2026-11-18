@@ -15,7 +15,7 @@ It reports unknown devices and attacks in plain language and can block them auto
 
 [![Latest version](https://img.shields.io/github/v/release/Reinert-Digital/heimvo-releases?label=version&color=2DD4BF)](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4)
-![100 % local](https://img.shields.io/badge/100%20%25%20local-no%20telemetry-2DD4BF)
+![Local, no telemetry](https://img.shields.io/badge/local-no%20telemetry-2DD4BF)
 ![English and German](https://img.shields.io/badge/languages-English%20%7C%20German-64748B)
 ![Made in Düsseldorf](https://img.shields.io/badge/made%20in-D%C3%BCsseldorf-64748B)
 

@@ -15,7 +15,7 @@ Es meldet fremde Geräte und Angriffe in Klartext und sperrt sie auf Wunsch auto
 
 [![Neueste Version](https://img.shields.io/github/v/release/Reinert-Digital/heimvo-releases?label=Version&color=2DD4BF)](https://github.com/Reinert-Digital/heimvo-releases/releases/latest)
 ![Windows 10 und 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4)
-![100 % lokal](https://img.shields.io/badge/100%20%25%20lokal-keine%20Telemetrie-2DD4BF)
+![Lokal, keine Telemetrie](https://img.shields.io/badge/lokal-keine%20Telemetrie-2DD4BF)
 ![Deutsch und Englisch](https://img.shields.io/badge/Sprachen-Deutsch%20%7C%20Englisch-64748B)
 ![Made in Düsseldorf](https://img.shields.io/badge/Made%20in-D%C3%BCsseldorf-64748B)
 
